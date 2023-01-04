@@ -17,3 +17,6 @@ faire cela )
 N'oubliez pas de lier jQuery à la page et de créer un fichier javascript séparé pour y placer votre code.
 
 References : https://fr.wikipedia.org/wiki/Jeu_de_la_taupe
+
+
+prendre random holes et ajouter up entre 200 et 1000 OK
